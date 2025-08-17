@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kottayam</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css"> 
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top shadow-sm">
+    <div class="container">
+      <a class="navbar-brand text-warning" href="">Kottayam</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active text-light" aria-current="page" href="home.html">Home</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link active text-light" aria-current="page" href="district.html">Districts</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active text-light" aria-current="page" href="aboutus.html">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-light" href="contactus.html">Contact Us</a>
+          </li>
+        </ul>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+          <button class="btn btn-outline-warning" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Intro -->
+  <div class="container text-center mt-5 pt-5">
+    <h1 class="display-4 fw-bold text-secondary">Welcome to Kottayam</h1>
+    <p class="lead text-muted">
+      Known as the Land of Letters, Latex, and Lakes, Kottayam is a blend of literacy, culture, and natural beauty.
+    </p>
+  </div>
+
+  <!-- Carousel -->
+  <div class="container mt-4">
+    <div id="carouselExampleInterval" class="carousel slide mt-4" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="3000">
+          <img src="illikkal-kallu.webp" class="d-block w-100 carousel-img" alt="illikkal-kallu">
+        </div>
+        <div class="carousel-item" data-bs-interval="3000">
+          <img src="Vembanad-Lake.jpg" class="d-block w-100 carousel-img" alt="Kumarakom Backwaters">
+        </div>
+        <div class="carousel-item" data-bs-interval="3000">
+          <img src="ilaveezhapoonchira1.jpg" class="d-block w-100 carousel-img" alt="ilaveezhapoonchira">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- History -->
+  <div class="container mt-5">
+    <h1 class="text-center text-warning">History of Kottayam</h1>
+    <p class="mt-3 text-muted">
+      Kottayam is renowned for being the first district in India to achieve 100% literacy. 
+      It is home to beautiful backwaters, rubber plantations, and scenic highlands. 
+      The district has played a major role in Kerala’s educational and literary history.
+    </p>
+    <p class="text-muted">
+      With attractions like Kumarakom, Vagamon, and Illikkal Kallu, Kottayam offers a perfect mix of culture, adventure, and relaxation. 
+      It’s also known for its vibrant Christian heritage and traditional architecture.
+    </p>
+
+    <!-- Places -->
+    <h2 class="mt-5 mb-3 text-center text-warning">Places to Visit</h2>
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+      <div class="col">
+        <div class="card h-100 shadow-sm border-0">
+          <img src="kumarakom-kottayam.jpg" class="card-img-top" alt="Kumarakom">
+          <div class="card-body">
+            <p class="fw-bold">1. Kumarakom</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100 shadow-sm border-0">
+          <img src="KottayamScienceCity.jpeg" class="card-img-top" alt="Kottayam Science City">
+          <div class="card-body">
+            <p class="fw-bold">2.Kottayam Science City</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100 shadow-sm border-0">
+          <img src="Illikkal_Kallu,_Kottayam,_Kerala.jpg" class="card-img-top" alt="Illikkal Kallu">
+          <div class="card-body">
+            <p class="fw-bold">3. Illikkal Kallu</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100 shadow-sm border-0">
+          <img src="thazhathangadi-mosque-.webp" class="card-img-top" alt="Thazhathangady Juma Masjid">
+          <div class="card-body">
+            <p class="fw-bold">4. Thazhathangady Juma Masjid</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

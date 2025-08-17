@@ -1,0 +1,45 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #f8f9fa;
+  padding-bottom: 40px;
+}
+
+/* Navbar */
+.navbar {
+  padding: 0.5rem 1rem;
+}
+.carousel-img {
+  height: 80vh;
+  object-fit: cover;
+  border-radius: 12px;
+  width: 100%;
+}
+
+.carousel-inner {
+  border-radius: 12px;
+  overflow: hidden; /* Keeps the rounded corners */
+  margin: 0 auto;   /* Centers content */
+}
+
+/* Card images */
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Card styling */
+.card {
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Section spacing */
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+

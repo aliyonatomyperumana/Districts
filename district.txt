@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DISTRICT</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+</head>
+
+    <body style="background-color: white;">
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>  
+    <a class="navbar-brand" href="home.html">Home</a>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">About us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">contact us</a>
+        
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+<h1>14 DISTRICTS OF KERALA</h1>
+<div class="row">
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+  <img src="kasargod.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">KASARAGOD</h5>
+    <p class="card-text"> is a municipal town and the administrative headquarters of the Kasaragod district in the state of Kerala, India. Established in 1966, Kasaragod was the first municipal town in the district.[5] It is the northernmost district of Kerala and is also known as Sapta Bhasha Sangama Bhumi ('The Land of Seven Languages').[1]</p>
+    <a href="kasaragode.html" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+</div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="kannur.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">KANNUR</h5>
+    <p class="card-text"> Kannur  formerly known in English as Cannanore, is a city and municipal corporation in the state of Kerala, India. It is the administrative headquarters of the Kannur district and situated 274 kilometres (170 mi) north of the major port city and commercial hub Kochi and 137 kilometres (85 mi) south of the major port city and a commercial hub, Mangalore</p>
+    <a href="kannur.html" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+  <img src="waynad.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">WAYNAD</h5>
+    <p class="card-text"> Wayanad or Wynad, is a district in the north-east of the Indian state of Kerala, with its administrative headquarters at the municipality of Kalpetta. It is the only plateau in Kerala.[7] The Wayanad Plateau forms a continuation of the Mysore Plateau, the southern portion of the Deccan Plateau. </p>
+    <a href="waynad.html" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="kozhikkod.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">KOZHIKODE</h5>
+    <p class="card-text"> Kozhikode  also known as Calicut, is a city along the Malabar Coast in the state of Kerala in India. Known as the City of Spices,[1] Kozhikode is listed among the UNESCO's Cities of Literature.</p>
+    <a href="kozhikkode.html" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="malappuram.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">MALAPPURAM</h5>
+    <p class="card-text"> Malappuram  is a municipality and town in Kerala and the headquarters of the Malappuram district in Kerala, India. It is the 4th largest urban agglomeration in Kerala and the 25th largest in India, spread over an area of 158.20 km2 (61.08 sq mi) including the surrounding suburban areas. The first municipality in the district formed in 1970, Malappuram serves as the administrative headquarters of Malappuram district.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+    
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+  <img src="palakkad.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">PALAKKAD</h5>
+    <p class="card-text">Palakkad  also known as Palghat, historically known as Palakkattussery[citation needed],[3] is a city and a municipality in the Indian state of Kerala. It is the administrative headquarters of Palakkad District.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="thrissur.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">THRISSUR</h5>
+    <p class="card-text"> Thrissur  formerly Trichur, also known by its historical name Thrissivaperur, is a city and the headquarters of the Thrissur district in Kerala, India. It is the third largest urban agglomeration in Kerala after Kochi and Kozhikode, and the 21st largest in India.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="kochi.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">ERNAKULAM</h5>
+    <p class="card-text">Ernakulam  is one of the 14 districts in the Indian state of Kerala, and takes its name from the eponymous city division in Kochi. It is situated in the central part of the state, spans an area of about 2,408 km2 (930 sq mi), and is home to over 9% of Kerala's population. Its headquarters are located at Kakkanad.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="idukki.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">IDUKKI</h5>
+    <p class="card-text"> Idukki is one of the 14 districts in the Indian state of Kerala in the southwest of the country.[5][6] It is the largest district in Kerala and lies amid the Cardamom Hills of Western Ghats in Kerala. Idukki district contains two municipal towns – Kattappana and Thodupuzha, and five taluks.</p>
+    <a href="idukki.html" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="kottayam.JPG" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">KOTTAYAM</h5>
+    <p class="card-text"> Kottayam  is one of 14 districts in the Indian state of Kerala. Kottayam district comprises six municipal towns: Kottayam, Changanassery, Pala, Erattupetta, Ettumanoor, and Vaikom. Situated in the south-central part of Kerala, Kottayam shares its borders with Ernakulam, Idukki, Pathanamthitta, and Alappuzha districts. It is the only district in Kerala that does not border either the Arabian Sea or another Indian state.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="alappuzha.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">ALAPPUZHA</h5>
+    <p class="card-text"> Alappuzha  or Alleppey is a municipality and town on the Laccadive Sea in the southern Indian state of Kerala. It is the district headquarters of the district, and is located about 130 km (80.8 mi) north of the state capital Thiruvananthapuram. </p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="kollam.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">KOLLAM</h5>
+    <p class="card-text"> Kollam  is an ancient seaport and the fourth largest city in the Indian state of Kerala. Located on the southern tip of the Malabar Coast of the Arabian Sea, the city is on the banks of Ashtamudi Lake and is 71 kilometers (44 mi) northwest of the Thiruvananthapuram.[7] Kollam is one of India's oldest continuously inhabited cities,[8][9] with evidence of habitation stretching back to the megalithic; the city has also been a maritime entrepôt millennia, the earliest attestation of which dates back to the Phoenicians and Romans.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+  <img src="pathanamthitta.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">PATHANAMTHITTA</h5>
+    <p class="card-text"> Pathanamthitta District is one of the 14 districts in the Indian state of Kerala. The district headquarters is in the town of Pathanamthitta. There are four municipalities in Pathanamthitta: Adoor, Pandalam, Pathanamthitta and Thiruvalla.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+  <img src="trivandrum.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">THIRUVANANTHAPURAM</h5>
+    <p class="card-text"> Thiruvananthapuram  also known as Trivandrum,[10][11] is the capital city of the Indian state of Kerala. As of 2011, the Thiruvananthapuram Municipal Corporation had a population of 957,730 over an area of 214.86 sq. km,[12] making it the largest and most populous city in Kerala.</p>
+    <a href="#" class="btn btn-primary">Know more</a>
+  </div>
+</div>
+    </div>
+</div>
+  
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>   
+</body>
+</html>
